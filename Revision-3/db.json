@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Chandra",
+      "age": 29,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "id": 1,
+      "name": "Nrupul",
+      "age": 32,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "name": "Anmol",
+      "age": 32,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD",
+      "id": 2
+    },
+    {
+      "name": "Sahota",
+      "age": 32,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD",
+      "id": 3
+    },
+    {
+      "name": "ramesh",
+      "age": 32,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD",
+      "id": 4
+    },
+    {
+      "name": "ravin",
+      "age": 32,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD",
+      "id": 5
+    },
+    {
+      "name": "next",
+      "age": 32,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD",
+      "id": 6
+    },
+    {
+      "name": "again",
+      "age": 32,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD",
+      "id": 7
+    },
+    {
+      "name": "bynetlify",
+      "age": 32,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD",
+      "id": 8
+    }
+  ],
+  "demo": [
+    {
+      "id": 1,
+      "name": "Nrupul",
+      "age": 32,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 32,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    }
+  ]
+}

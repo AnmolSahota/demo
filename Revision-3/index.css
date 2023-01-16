@@ -1,0 +1,57 @@
+* {
+    margin: 0%;
+    padding: 0%;
+  }
+  nav {
+    height: 50px;
+    background-color: gray;
+    line-height: 50px;
+    text-align: center;
+    font-size: larger;
+    color: #fff;
+  }
+  #login {
+    position: relative;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 50%;
+    margin: auto;
+    /* margin-top: 8%; */
+    height: 75vh;
+    padding: 30px;
+  }
+  #login div {
+    padding: 10px 0px;
+  }
+/* CSS */
+.button-2 {
+    background-color:#A5D6A7;
+    border-radius: 8px;
+    border-width: 0;
+    color: #333333;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 8px 23px;
+    width: 100%;
+    margin: 10px 0px;
+    text-align: center; 
+  }
+ 
+  .center{
+    position: relative;
+    /* top: 10% */
+  }
+  input {
+    display: block;
+    width: 99%;
+    padding: 8px 0px;
+}
+select{
+    width: 339px;
+    padding: 8px 0px;
+    border-radius: 3px;
+}

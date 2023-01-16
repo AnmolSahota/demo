@@ -1,14 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
     <title>Document</title>
-</head>
-<body>
-    <button id="btn">click here</button>
-    <input type="text" placeholder="Enter name" id="name">
+  </head>
+  <body>
+    <nav>Register here</nav>
+    <div id="login">
+      <div class="center">
+        <div>Enter name</div>
+        <input type="text" id="name" placeholder="  Enter name" />
+        <div>Enter age</div>
+        <input type="text" id="age" placeholder="  Enter age" />
+      </div>
+      <div>Enter a Place</div>
+      <input type="text" id="place" placeholder="  Enter your Place" />
+      <div>
+        Select Category
+      </div>
+      <select name="" id="batch">
+        <option value="">Select Batch</option>
+        <option value="WEB-13">WEB-13</option>
+        <option value="WEB-14">WEB-14</option>
+        <option value="WEB-15">WEB-15</option>
+        <option value="WEB-22">WEB-22</option>
+        <option value="WEB-23">WEB-23</option>
+      </select>
+      <select name="" id="Profession">
+        <option value="">Select Profession</option>
+        <option value="FSD">FSD</option>
+        <option value="Frontend">Frontend</option>
+        <option value="Backend">Backend</option>
+      </select>
+      <div class="btn">
+        <button class="button-2" role="button" id="btn">Login</button>
+      </div>
+    </div>
     <script src="user.js"></script>
-</body>
+  </body>
 </html>
